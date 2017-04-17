@@ -1,2 +1,3 @@
 # hello-world
 Crawl before walk, walk before run
+I am a Network Engineer, learning how to work more like DevOps Engineers...
